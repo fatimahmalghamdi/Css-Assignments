@@ -1,0 +1,43 @@
+.row1 {
+    display: flex;
+}
+.col1 {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(23, 90, 90);
+}
+
+
+
+.row2 {
+    display: flex;
+}
+.col_21 {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(23, 90, 90);
+}
+.col_22 {
+    flex: 2;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(23, 90, 90);
+}
+
+.row3 {
+    display: flex;
+}
+.col_31 {
+    flex: 2;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(23, 90, 90);
+}
+.col_32 {
+    flex: 3;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(23, 90, 90);
+}
